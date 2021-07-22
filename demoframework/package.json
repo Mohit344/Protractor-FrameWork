@@ -21,7 +21,7 @@
     "protractor": "^7.0.0",
     "tsconfig.json": "^1.0.7",
     "webdriver-manager": "^12.1.7",
-    "xlsx": "^0.16.2"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@theintern/cli": "^1.0.0-beta.4",
