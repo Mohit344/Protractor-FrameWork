@@ -16,7 +16,7 @@
     "exceljs": "^3.10.0",
     "jasmine": "^3.5.0",
     "jsonfile": "^6.0.1",
-    "log4js": "^6.3.0",
+    "log4js": "^6.4.0",
     "properties-reader": "^2.0.0",
     "protractor": "^7.0.0",
     "tsconfig.json": "^1.0.7",
